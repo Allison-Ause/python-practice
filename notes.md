@@ -21,3 +21,9 @@ echo "This is a test file." > test.txt
 cat test.txt
 
 ”DBES” which stands for ”Decode Bytes Encode Strings”.
+
+DOCUMENTATION COMMENTS
+Put inside functions with triple quotes. Available within python help() command.
+"""Prints first and last word after sorting sentence."""
+
+python3 to start in-terminal python functionality for naming variables and calling functions. quit() to exit.
